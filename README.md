@@ -15,4 +15,4 @@ Welcome to **IQ Arena** - a fun and interactive web application that tests your 
 - JavaScript
 
 ## Demo
-- 
+- https://rehanskyyyy.github.io/IQ-Arena/
