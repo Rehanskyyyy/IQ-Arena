@@ -27,7 +27,7 @@ main {
     background-color: black;
     /* background-color: black; */
     padding: 20px 20px;
-    width: 60%;
+    width: 70%;
     border-radius: 10px;
 }
 
@@ -132,7 +132,7 @@ main {
     }
 
     .options span {
-        padding: 20px 25px;
+        padding: 20px 30px;
         font-size: 25px;
     }
 
@@ -149,6 +149,7 @@ main {
     }
 
     .options span {
+        padding: 20px 30px;
         font-size: 17px;
     }
 
