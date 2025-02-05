@@ -61,7 +61,7 @@ input {
 button {
     margin-top: 40px;
     border: none;
-    padding: 15px 50px;
+    padding: 20px 50px;
     border-radius: 50px;
     font-family: system-ui;
     font-size: large;
@@ -90,19 +90,32 @@ button {
 }
 
 @media (max-width: 600px) {
+    main{
+        height: 90vh;
+    }
+    
+    body{
+        background-color: #dbaf5c;
+    }
+
     strong {
-        font-size: 42px;
+        font-size: 45px;
         width: 240px;
         text-align: center;
         padding: 27px 50px;
     }
 
     span {
-        font-size: 20px;
+        font-size: 22px;
     }
 
     input {
-        height: 45px;
+        font-size: 25px;
+        height: 65px;
         width: 250px;
+    }
+
+    button {
+        font-size: 25px;
     }
 }
